@@ -1,0 +1,19 @@
+1. What was the most useful debugger tool you used to find the bugs? Why was it more useful than other techniques you tried?
+
+-> I used Visual Studio Code to find bugs. Initially, I tried Visual Studio, but it was challenging to use on my Mac. Switching to Visual Studio Code, I configured debugging settings to suit my needs. This made fixing bugs easier, allowing me to address issues step by step. Visual Studio Code facilitated smoother debugging, enhancing my understanding of the process. Notably, in Visual Studio Code, selecting a line of code triggered a console terminal at the bottom of the screen, pinpointing errors. This feature streamlined error identification. Consequently, I prefer using Visual Studio Code over Xcode for debugging due to its efficiency and user-friendliness, especially on Mac.
+
+
+2. Which debugger features did you NOT use? Why did you not use these features? For each feature you did not use, give an example of a problem you would use it for.
+
+-> One debugging technique I haven't used is inspecting memory. I'm currently studying OOP class that I learned c++ during the class and last week, I learned about dynamic allocation. The reason I haven't used memory inspection is that in most cases, when there are issues related to memory, they occur in specific parts of the code. Generally, checking and debugging the values of variables is enough to solve these issues. For example, when dealing with problems like memory leaks or incorrect pointer references, we usually check the values of variables and analyze them.
+
+3. Which do you think is a faster way to find bugs: a. Using the debugger alone,
+b. Using print statements alone,
+c. Using the debugger and print statements?
+Justify your answer.
+
+-> Using both the debugger and print statements is the most effective way to find bugs in programs. The debugger helps to go through the code, understand the program's flow, and try to find out potential issues. By the way, strategically placed print statements provide additional visibility into the program's state, offering useful context and helping to explain the exact location of bugs. This combination is more efficient and effective in identifying and resolving bugs compared to using either method alone. It also can make a more comprehensive debugging process, allowing for the effective resolution of a wider range of issues. In my opinion, using both the debugger and print statements is the most efficient and effective way to find bugs in software applications.
+
+4. How did you test the program to find the bugs and to make sure you had fixed the bugs? Did you use any additional test data other than that supplied? If so, describe the techniques you used to create the test data. How confident are you that you found all the bugs?
+
+-> To test the code and ensure bugs are caught and fixed, various approaches can be used. Firstly, I create small tests for each function to verify their behavior. For example, test nextWhite with strings containing spaces and without. Secondly, I also consider edge cases such as empty strings or strings with only one character. Thirdly, I test with invalid inputs like non-numeric characters for isNumber. Additionally, manually inspect the code to identify potential issues. Use automated tools like Valgrind for memory errors. Lastly, this is the most important step. After fixing bugs, rerun all tests to ensure new issues aren't introduced. I always run more than twice to find the bugs that I missed. I think this is the best step to find bugs.

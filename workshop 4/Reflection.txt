@@ -1,0 +1,21 @@
+1. What was the most useful technique you used to find the bugs? Why was it more useful than other techniques you tried?
+
+->The most effective way to uncover bugs in the code involved a thorough review of each line, understanding common programming errors. In the reduceFactorial function, I addressed an infinite loop issue by replacing the line with (n <= 1) ? 1 : n * reduceFactorial(n - 1), correcting the problematic factorial(n - 1). Additionally, in the computeFactorials function, I revised the function signature to accept a pointer (struct FactorialResults *results) as an argument, making direct modification of the original data. This revised points make the function worked on the actual information rather than a copy, so it makes the overall reliability of the code.
+
+2. Look up answers to the following questions and report your findings:
+
+a. What are the largest integer and double values you can store?
+-> The largest number that I can use in C is the 'int' data type. Most of the system, the amount is usually 2,147,483,647. For decimal numbers, the 'double' data type can go up to about 1.8 x 10^308.
+
+b. Why is there a limit on the maximum value you can store in a variable?
+-> The big reason is a limit on how big a number can be because computers have a fixed amount of memory. Variables which we store numbers can't go beyond this limit because it causes problems like overflow.
+
+c. If you exceed the maximum value an integer can hold, what happens? Explain why the
+format causes this to happen.
+-> If I go put the biggest number an 'int' can hold, it goes back to the smallest number due to overflow that makes becuase of the variable size. For example, adding 1 to the maximum value makes it the minimum value.
+
+d. What is the format for the storage of a floating point variable? How does this differ from the way an integer is stored?
+-> Floating-point variables, like decimals, use a format called IEEE 754. This is different from how numbers are stored. Inside of my code, '%12d' in 'printf' is used for integers. This shows 12 characters, while '%12f' is used for floating-point, also indicating 12 characters but with formatting for decimal precision.
+
+3. What is the default amount of stack memory that is given to a program when Visual Studio starts a C or C++ program? What is the default heap size? Did you hit any of the limits? If so, which one(s)? If you hit a limit, would increasing the amount of memory allocated to the program fix the problem? Justify your answer. Why do they limit the stack and heap size for a program?
+-> Running a C or C++ program in Visual Studio usually results in approximately 1 MB of stack memory and a significant amount of heap memory by default. If the code contains many recursive or large arrays, problems such as stack overflow or heap depletion can occur. For example, multiple recursive calls or creating a large data structure can lead to stack overflow problems. While increasing the stack size can help, managing memory efficiently is important. These limitations exist to prevent programs from using too many resources, ensuring fair allocation, and preventing unintended collisions. Balancing resource usage is important for stable program execution.

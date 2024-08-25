@@ -1,0 +1,809 @@
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 0, current str:  
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 0, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 0, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 0, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: T
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 0th Word: 0
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[4] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 5, current str:  
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 5, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: i
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 1th Word: 5
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[7] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 8, current str:  
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: a
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 2th Word: 8
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[9] is newline or not: 10(ASCII)
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[10] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 11, current str:  
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 11, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 11, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 11, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 11, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 11, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: s
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 3th Word: 11
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[17] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 18, current str:  
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 18, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 18, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 18, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: w
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 4th Word: 18
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[22] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 23, current str:  
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 23, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 23, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 23, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 23, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 23, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 23, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 23, current str:  
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: e
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 5th Word: 23
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[31] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 32, current str:  
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 32, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 32, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 32, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 32, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 32, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 32, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: n
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 6th Word: 32
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[39] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 40, current str:  
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 40, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 40, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 40, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 40, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 40, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 40, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 40, current str:  
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 40, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: c
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 7th Word: 40
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[49] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 50, current str:  
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 50, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 50, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: a
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 8th Word: 50
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[53] is newline or not: 10(ASCII)
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 54, current str:  
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 54, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 54, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 54, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 54, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: 1
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 2, current str: 2
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 3, current str: 3
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 4, current str: 4
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 5, current str: 5
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:75 Function: indexString() Start index of 0th Number: 54
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[59] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 60, current str:  
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 60, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 60, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 60, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 60, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 60, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 60, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: n
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 9th Word: 60
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[67] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 68, current str:  
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 68, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 68, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 68, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 68, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 68, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: i
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 10th Word: 68
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[74] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 75, current str:  
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 75, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: i
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 11th Word: 75
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[77] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 78, current str:  
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 78, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: a
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 12th Word: 78
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[80] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 81, current str:  
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 81, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 81, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 81, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: w
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 13th Word: 81
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[85] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 86, current str:  
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 86, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 86, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 86, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]:  Line:16227280 Function: indexString() start i: 69, end sp: 86, current str: 
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: 6
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 2, current str: 7
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 3, current str: 8
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 4, current str: 9
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 5, current str: 0
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:75 Function: indexString() Start index of 1th Number: 86
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:128 Function: getWord() start index: 5, end index: 5, word index: 0, current str: i, current word[i]: i
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:128 Function: getWord() start index: 5, end index: 6, word index: 1, current str: s, current word[i]: s
+
+[WARN Sun Feb 18 23:13:16 2024]: Current idx->str[start+i] is whitespace
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:128 Function: getWord() start index: 5, end index: 7, word index: 2, current str:  , current word[i]:  
+
+[INFO Sun Feb 18 23:13:16 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:128 Function: getWord() start index: 5, end index: 8, word index: 3, current str: a, current word[i]: a
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 0, current str:  
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 0, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 0, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 0, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: T
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 0th Word: 0
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[4] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 5, current str:  
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 5, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: i
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 1th Word: 5
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[7] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 8, current str:  
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: a
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 2th Word: 8
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[9] is newline or not: 10(ASCII)
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[10] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 11, current str:  
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 11, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 11, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 11, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 11, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 11, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: s
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 3th Word: 11
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[17] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 18, current str:  
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 18, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 18, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 18, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: w
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 4th Word: 18
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[22] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 23, current str:  
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 23, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 23, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 23, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 23, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 23, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 23, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 23, current str:  
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: e
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 5th Word: 23
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[31] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 32, current str:  
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 32, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 32, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 32, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 32, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 32, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 32, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: n
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 6th Word: 32
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[39] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 40, current str:  
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 40, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 40, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 40, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 40, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 40, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 40, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 40, current str:  
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 40, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: c
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 7th Word: 40
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[49] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 50, current str:  
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 50, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 50, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: a
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 8th Word: 50
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[53] is newline or not: 10(ASCII)
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 54, current str:  
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 54, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 54, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 54, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 54, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: 1
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 2, current str: 2
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 3, current str: 3
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 4, current str: 4
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 5, current str: 5
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:75 Function: indexString() Start index of 0th Number: 54
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[59] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 60, current str:  
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 60, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 60, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 60, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 60, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 60, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 60, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: n
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 9th Word: 60
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[67] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 68, current str:  
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 68, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 68, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 68, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 68, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 68, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: i
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 10th Word: 68
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[74] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 75, current str:  
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 75, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: i
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 11th Word: 75
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[77] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 78, current str:  
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 78, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: a
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 12th Word: 78
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[80] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 81, current str:  
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 81, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 81, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 81, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: w
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 13th Word: 81
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[85] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 86, current str:  
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 86, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 86, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 86, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]:  Line:6331344 Function: indexString() start i: 69, end sp: 86, current str: 
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: 6
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 2, current str: 7
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 3, current str: 8
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 4, current str: 9
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 5, current str: 0
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:75 Function: indexString() Start index of 1th Number: 86
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:128 Function: getWord() start index: 5, end index: 5, word index: 0, current str: i, current word[i]: i
+
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:128 Function: getWord() start index: 5, end index: 6, word index: 1, current str: s, current word[i]: s
+
+[WARN Sun Feb 18 23:15:18 2024]: Current idx->str[start+i] is whitespace
+[INFO Sun Feb 18 23:15:18 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:128 Function: getWord() start index: 5, end index: 7, word index: 2, current str:  , current word[i]:  
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 0, current str:  
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 0, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 0, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 0, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: T
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 0th Word: 0
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[4] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 5, current str:  
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 5, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: i
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 1th Word: 5
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[7] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 8, current str:  
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: a
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 2th Word: 8
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[9] is newline or not: 10(ASCII)
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[10] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 11, current str:  
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 11, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 11, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 11, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 11, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 11, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: s
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 3th Word: 11
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[17] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 18, current str:  
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 18, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 18, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 18, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: w
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 4th Word: 18
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[22] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 23, current str:  
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 23, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 23, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 23, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 23, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 23, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 23, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 23, current str:  
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: e
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 5th Word: 23
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[31] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 32, current str:  
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 32, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 32, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 32, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 32, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 32, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 32, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: n
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 6th Word: 32
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[39] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 40, current str:  
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 40, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 40, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 40, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 40, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 40, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 40, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 40, current str:  
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 40, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: c
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 7th Word: 40
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[49] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 50, current str:  
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 50, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 50, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: a
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 8th Word: 50
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[53] is newline or not: 10(ASCII)
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 54, current str:  
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 54, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 54, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 54, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 54, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: 1
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 2, current str: 2
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 3, current str: 3
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 4, current str: 4
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 5, current str: 5
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:75 Function: indexString() Start index of 0th Number: 54
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[59] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 60, current str:  
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 60, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 60, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 60, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 60, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 60, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 60, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: n
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 9th Word: 60
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[67] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 68, current str:  
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 68, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 68, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 68, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 68, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 68, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: i
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 10th Word: 68
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[74] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 75, current str:  
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 75, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: i
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 11th Word: 75
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[77] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 78, current str:  
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 78, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: a
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 12th Word: 78
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[80] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 81, current str:  
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 81, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 81, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 81, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: w
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:80 Function: indexString() Start index of 13th Word: 81
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:59 Function: indexString() Check if str[85] is newline or not: 32(ASCII)
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 86, current str:  
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 86, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 86, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 86, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]:  Line:6462416 Function: indexString() start i: 69, end sp: 86, current str: 
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 1, current str: 6
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 2, current str: 7
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 3, current str: 8
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 4, current str: 9
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:29 Function: isNumber() result: 5, current str: 0
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:75 Function: indexString() Start index of 1th Number: 86
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:128 Function: getWord() start index: 5, end index: 5, word index: 0, current str: i, current word[i]: i
+
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:128 Function: getWord() start index: 5, end index: 6, word index: 1, current str: s, current word[i]: s
+
+[WARN Sun Feb 18 23:17:01 2024]: Current idx->str[start+i] is whitespace
+[INFO Sun Feb 18 23:17:01 2024]: File:C:\VisualTest\TRY3\TRY3\stringhelp.c Line:128 Function: getWord() start index: 5, end index: 7, word index: 2, current str:  , current word[i]:  
+
